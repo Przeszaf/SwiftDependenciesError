@@ -1,0 +1,29 @@
+{
+  "configurations" : [
+    {
+      "id" : "3B4C8EEF-5AC5-4BBF-A054-40B146D5DBCD",
+      "name" : "Test Scheme Action",
+      "options" : {
+
+      }
+    }
+  ],
+  "defaultOptions" : {
+    "codeCoverage" : false,
+    "targetForVariableExpansion" : {
+      "containerPath" : "container:SwiftDependencies.xcodeproj",
+      "identifier" : "45D69AD42A8E11AA00867AE3",
+      "name" : "SwiftDependencies"
+    }
+  },
+  "testTargets" : [
+    {
+      "target" : {
+        "containerPath" : "container:SwiftDependencies.xcodeproj",
+        "identifier" : "45D69AE42A8E11AC00867AE3",
+        "name" : "SwiftDependenciesTests"
+      }
+    }
+  ],
+  "version" : 1
+}

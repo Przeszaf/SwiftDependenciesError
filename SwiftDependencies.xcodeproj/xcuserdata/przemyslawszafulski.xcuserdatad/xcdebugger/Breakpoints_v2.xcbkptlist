@@ -1,0 +1,194 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   uuid = "B77BC592-01D6-42C0-837D-6116E733C2B1"
+   type = "1"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "3C2155A7-C0DC-45D8-BF62-BB60C07EC852"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "../../../Library/Developer/Xcode/DerivedData/SwiftDependencies-ftitghqxdomdaedotiirymxpzzzf/SourcePackages/checkouts/swift-dependencies/Sources/Dependencies/WithDependencies.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "27"
+            endingLineNumber = "27"
+            landmarkName = "withDependencies(_:operation:)"
+            landmarkType = "9">
+            <Locations>
+               <Location
+                  uuid = "3C2155A7-C0DC-45D8-BF62-BB60C07EC852 - a442ddf8fba9c150"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Dependencies.withDependencies&lt;&#x3c4;_0_0&gt;(_: (inout Dependencies.DependencyValues) throws -&gt; (), operation: () throws -&gt; &#x3c4;_0_0) throws -&gt; &#x3c4;_0_0"
+                  moduleName = "SwiftDependencies"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/przemyslawszafulski/Library/Developer/Xcode/DerivedData/SwiftDependencies-ftitghqxdomdaedotiirymxpzzzf/SourcePackages/checkouts/swift-dependencies/Sources/Dependencies/WithDependencies.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "27"
+                  endingLineNumber = "27"
+                  offsetFromSymbolStart = "84">
+               </Location>
+               <Location
+                  uuid = "3C2155A7-C0DC-45D8-BF62-BB60C07EC852 - a1e2b18bc90ed8b8"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 () throws -&gt; &#x3c4;_0_0 in Dependencies.withDependencies&lt;&#x3c4;_0_0&gt;(_: (inout Dependencies.DependencyValues) throws -&gt; (), operation: () throws -&gt; &#x3c4;_0_0) throws -&gt; &#x3c4;_0_0"
+                  moduleName = "SwiftDependencies"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/przemyslawszafulski/Library/Developer/Xcode/DerivedData/SwiftDependencies-ftitghqxdomdaedotiirymxpzzzf/SourcePackages/checkouts/swift-dependencies/Sources/Dependencies/WithDependencies.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "28"
+                  endingLineNumber = "28"
+                  offsetFromSymbolStart = "100">
+               </Location>
+               <Location
+                  uuid = "3C2155A7-C0DC-45D8-BF62-BB60C07EC852 - a1e2b18bc90ed89f"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 () throws -&gt; &#x3c4;_0_0 in Dependencies.withDependencies&lt;&#x3c4;_0_0&gt;(_: (inout Dependencies.DependencyValues) throws -&gt; (), operation: () throws -&gt; &#x3c4;_0_0) throws -&gt; &#x3c4;_0_0"
+                  moduleName = "SwiftDependencies"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/przemyslawszafulski/Library/Developer/Xcode/DerivedData/SwiftDependencies-ftitghqxdomdaedotiirymxpzzzf/SourcePackages/checkouts/swift-dependencies/Sources/Dependencies/WithDependencies.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "27"
+                  endingLineNumber = "27"
+                  offsetFromSymbolStart = "476">
+               </Location>
+               <Location
+                  uuid = "3C2155A7-C0DC-45D8-BF62-BB60C07EC852 - 795ab3e9c19b0348"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Dependencies.withDependencies&lt;&#x3c4;_0_0&gt;(_: (inout Dependencies.DependencyValues) throws -&gt; (), operation: () throws -&gt; &#x3c4;_0_0) throws -&gt; &#x3c4;_0_0"
+                  moduleName = "SwiftDependenciesTests"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/przemyslawszafulski/Library/Developer/Xcode/DerivedData/SwiftDependencies-ftitghqxdomdaedotiirymxpzzzf/SourcePackages/checkouts/swift-dependencies/Sources/Dependencies/WithDependencies.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "27"
+                  endingLineNumber = "27"
+                  offsetFromSymbolStart = "84">
+               </Location>
+               <Location
+                  uuid = "3C2155A7-C0DC-45D8-BF62-BB60C07EC852 - 7cfadf9af33c1aa0"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 () throws -&gt; &#x3c4;_0_0 in Dependencies.withDependencies&lt;&#x3c4;_0_0&gt;(_: (inout Dependencies.DependencyValues) throws -&gt; (), operation: () throws -&gt; &#x3c4;_0_0) throws -&gt; &#x3c4;_0_0"
+                  moduleName = "SwiftDependenciesTests"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/przemyslawszafulski/Library/Developer/Xcode/DerivedData/SwiftDependencies-ftitghqxdomdaedotiirymxpzzzf/SourcePackages/checkouts/swift-dependencies/Sources/Dependencies/WithDependencies.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "28"
+                  endingLineNumber = "28"
+                  offsetFromSymbolStart = "100">
+               </Location>
+               <Location
+                  uuid = "3C2155A7-C0DC-45D8-BF62-BB60C07EC852 - 7cfadf9af33c1a87"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 () throws -&gt; &#x3c4;_0_0 in Dependencies.withDependencies&lt;&#x3c4;_0_0&gt;(_: (inout Dependencies.DependencyValues) throws -&gt; (), operation: () throws -&gt; &#x3c4;_0_0) throws -&gt; &#x3c4;_0_0"
+                  moduleName = "SwiftDependenciesTests"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/przemyslawszafulski/Library/Developer/Xcode/DerivedData/SwiftDependencies-ftitghqxdomdaedotiirymxpzzzf/SourcePackages/checkouts/swift-dependencies/Sources/Dependencies/WithDependencies.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "27"
+                  endingLineNumber = "27"
+                  offsetFromSymbolStart = "476">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "64041340-4E3A-48F9-92F9-6D14004DB5C2"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "../../../Library/Developer/Xcode/DerivedData/SwiftDependencies-ftitghqxdomdaedotiirymxpzzzf/SourcePackages/checkouts/swift-dependencies/Sources/Dependencies/WithDependencies.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "31"
+            endingLineNumber = "31"
+            landmarkName = "withDependencies(_:operation:)"
+            landmarkType = "9">
+            <Locations>
+               <Location
+                  uuid = "64041340-4E3A-48F9-92F9-6D14004DB5C2 - 66a1b0ca4036921a"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 () throws -&gt; &#x3c4;_0_0 in closure #1 () throws -&gt; &#x3c4;_0_0 in Dependencies.withDependencies&lt;&#x3c4;_0_0&gt;(_: (inout Dependencies.DependencyValues) throws -&gt; (), operation: () throws -&gt; &#x3c4;_0_0) throws -&gt; &#x3c4;_0_0"
+                  moduleName = "SwiftDependencies"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/przemyslawszafulski/Library/Developer/Xcode/DerivedData/SwiftDependencies-ftitghqxdomdaedotiirymxpzzzf/SourcePackages/checkouts/swift-dependencies/Sources/Dependencies/WithDependencies.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "31"
+                  endingLineNumber = "31"
+                  offsetFromSymbolStart = "60">
+               </Location>
+               <Location
+                  uuid = "64041340-4E3A-48F9-92F9-6D14004DB5C2 - d1a0c56389ae0185"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 () throws -&gt; &#x3c4;_0_0 in closure #1 () throws -&gt; &#x3c4;_0_0 in closure #1 () throws -&gt; &#x3c4;_0_0 in Dependencies.withDependencies&lt;&#x3c4;_0_0&gt;(_: (inout Dependencies.DependencyValues) throws -&gt; (), operation: () throws -&gt; &#x3c4;_0_0) throws -&gt; &#x3c4;_0_0"
+                  moduleName = "SwiftDependencies"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/przemyslawszafulski/Library/Developer/Xcode/DerivedData/SwiftDependencies-ftitghqxdomdaedotiirymxpzzzf/SourcePackages/checkouts/swift-dependencies/Sources/Dependencies/WithDependencies.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "32"
+                  endingLineNumber = "32"
+                  offsetFromSymbolStart = "136">
+               </Location>
+               <Location
+                  uuid = "64041340-4E3A-48F9-92F9-6D14004DB5C2 - bbb9dedb7a045002"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 () throws -&gt; &#x3c4;_0_0 in closure #1 () throws -&gt; &#x3c4;_0_0 in Dependencies.withDependencies&lt;&#x3c4;_0_0&gt;(_: (inout Dependencies.DependencyValues) throws -&gt; (), operation: () throws -&gt; &#x3c4;_0_0) throws -&gt; &#x3c4;_0_0"
+                  moduleName = "SwiftDependenciesTests"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/przemyslawszafulski/Library/Developer/Xcode/DerivedData/SwiftDependencies-ftitghqxdomdaedotiirymxpzzzf/SourcePackages/checkouts/swift-dependencies/Sources/Dependencies/WithDependencies.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "31"
+                  endingLineNumber = "31"
+                  offsetFromSymbolStart = "60">
+               </Location>
+               <Location
+                  uuid = "64041340-4E3A-48F9-92F9-6D14004DB5C2 - cb8ab72b39cc39d"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 () throws -&gt; &#x3c4;_0_0 in closure #1 () throws -&gt; &#x3c4;_0_0 in closure #1 () throws -&gt; &#x3c4;_0_0 in Dependencies.withDependencies&lt;&#x3c4;_0_0&gt;(_: (inout Dependencies.DependencyValues) throws -&gt; (), operation: () throws -&gt; &#x3c4;_0_0) throws -&gt; &#x3c4;_0_0"
+                  moduleName = "SwiftDependenciesTests"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/przemyslawszafulski/Library/Developer/Xcode/DerivedData/SwiftDependencies-ftitghqxdomdaedotiirymxpzzzf/SourcePackages/checkouts/swift-dependencies/Sources/Dependencies/WithDependencies.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "32"
+                  endingLineNumber = "32"
+                  offsetFromSymbolStart = "136">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
